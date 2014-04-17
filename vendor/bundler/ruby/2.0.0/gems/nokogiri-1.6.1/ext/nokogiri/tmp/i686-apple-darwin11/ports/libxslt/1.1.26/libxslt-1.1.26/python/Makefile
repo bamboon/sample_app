@@ -224,7 +224,11 @@ PYTHON_SITE_PACKAGES =
 PYTHON_SUBDIR = 
 PYTHON_VERSION = 
 RANLIB = ranlib
+<<<<<<< HEAD
 RELDATE = Thu Apr 17 2014
+=======
+RELDATE = Wed Apr 16 2014
+>>>>>>> filling-in-layout
 RM = /bin/rm
 SED = /usr/bin/sed
 SET_MAKE = 

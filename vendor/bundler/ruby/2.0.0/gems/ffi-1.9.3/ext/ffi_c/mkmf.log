@@ -348,7 +348,11 @@ checked program was:
 "gcc-4.2 -o conftest -I/usr/local/rvm/rubies/ruby-2.0.0-p451/include/ruby-2.0.0/x86_64-darwin11.4.2 -I/usr/local/rvm/rubies/ruby-2.0.0-p451/include/ruby-2.0.0/ruby/backward -I/usr/local/rvm/rubies/ruby-2.0.0-p451/include/ruby-2.0.0 -I. -I/usr/include/ffi -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -I/opt/sm/pkg/active/include -fno-common -pipe conftest.c  -L. -L/usr/local/rvm/rubies/ruby-2.0.0-p451/lib -L. -L/opt/sm/pkg/active/lib -fstack-protector -L/usr/local/lib    -lffi  -lruby.2.0.0 -lffi  -lpthread -ldl -lobjc "
 Undefined symbols for architecture x86_64:
   "_ffi_prep_cif_var", referenced from:
+<<<<<<< HEAD
       _t in cceHgNgc.o
+=======
+      _t in cczFjc4C.o
+>>>>>>> filling-in-layout
 ld: symbol(s) not found for architecture x86_64
 collect2: ld returned 1 exit status
 checked program was:

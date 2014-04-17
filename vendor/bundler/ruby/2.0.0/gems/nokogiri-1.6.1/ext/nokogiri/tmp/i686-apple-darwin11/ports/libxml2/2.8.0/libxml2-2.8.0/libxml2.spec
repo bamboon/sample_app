@@ -128,6 +128,10 @@ rm -fr %{buildroot}
 %doc doc/python.html
 
 %changelog
+<<<<<<< HEAD
 * Thu Apr 17 2014 Daniel Veillard <veillard@redhat.com>
+=======
+* Wed Apr 16 2014 Daniel Veillard <veillard@redhat.com>
+>>>>>>> filling-in-layout
 - upstream release 2.8.0 see http://xmlsoft.org/news.html
 

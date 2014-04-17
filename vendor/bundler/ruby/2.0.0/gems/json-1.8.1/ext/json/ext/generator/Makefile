@@ -30,8 +30,13 @@ rubyhdrdir = $(includedir)/$(RUBY_VERSION_NAME)
 vendorarchdir = $(vendorlibdir)/$(sitearch)
 vendorlibdir = $(vendordir)/$(ruby_version)
 vendordir = $(rubylibprefix)/vendor_ruby
+<<<<<<< HEAD
 sitearchdir = ./.gem.20140417-1450-m25z2f
 sitelibdir = ./.gem.20140417-1450-m25z2f
+=======
+sitearchdir = ./.gem.20140416-1323-lycb5t
+sitelibdir = ./.gem.20140416-1323-lycb5t
+>>>>>>> filling-in-layout
 sitedir = $(rubylibprefix)/site_ruby
 rubyarchdir = $(rubylibdir)/$(arch)
 rubylibdir = $(rubylibprefix)/$(ruby_version)

@@ -453,7 +453,11 @@ PYTHON_VERSION =
 RANLIB = ranlib
 RDL_LIBS = 
 READER_TEST = Readertests
+<<<<<<< HEAD
 RELDATE = Thu Apr 17 2014
+=======
+RELDATE = Wed Apr 16 2014
+>>>>>>> filling-in-layout
 RM = /bin/rm
 SED = /usr/bin/sed
 SET_MAKE = 

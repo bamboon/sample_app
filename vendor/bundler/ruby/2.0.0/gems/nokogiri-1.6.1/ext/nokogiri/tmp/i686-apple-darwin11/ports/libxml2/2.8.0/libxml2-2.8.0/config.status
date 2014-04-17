@@ -843,7 +843,11 @@ S["am__EXEEXT_TRUE"]="#"
 S["LTLIBOBJS"]=""
 S["LIBOBJS"]=""
 S["PYTHON_TESTS"]=""
+<<<<<<< HEAD
 S["RELDATE"]="Thu Apr 17 2014"
+=======
+S["RELDATE"]="Wed Apr 16 2014"
+>>>>>>> filling-in-layout
 S["RDL_LIBS"]=""
 S["M_LIBS"]="-lm"
 S["PYTHON_SITE_PACKAGES"]=""

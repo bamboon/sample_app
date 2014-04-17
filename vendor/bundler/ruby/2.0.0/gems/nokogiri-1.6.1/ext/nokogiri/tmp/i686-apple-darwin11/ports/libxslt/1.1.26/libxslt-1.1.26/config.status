@@ -759,7 +759,11 @@ S["am__EXEEXT_FALSE"]=""
 S["am__EXEEXT_TRUE"]="#"
 S["LTLIBOBJS"]=""
 S["LIBOBJS"]=""
+<<<<<<< HEAD
 S["RELDATE"]="Thu Apr 17 2014"
+=======
+S["RELDATE"]="Wed Apr 16 2014"
+>>>>>>> filling-in-layout
 S["M_LIBS"]=""
 S["EXTRA_LIBS"]="  -L/Users/saraya/rails_projects/sample_app/vendor/bundler/ruby/2.0.0/gems/nokogiri-1.6.1/ports/i686-apple-darwin11/libxml2/2.8.0/lib -lxml2 -lz -lp"\
 "thread -liconv -lm "

@@ -126,5 +126,9 @@ rm -fr %{buildroot}
 %doc python/tests/*.xsl
 
 %changelog
+<<<<<<< HEAD
 * Thu Apr 17 2014 Daniel Veillard <veillard@redhat.com>
+=======
+* Wed Apr 16 2014 Daniel Veillard <veillard@redhat.com>
+>>>>>>> filling-in-layout
 - upstream release 1.1.26 see http://xmlsoft.org/XSLT/news.html

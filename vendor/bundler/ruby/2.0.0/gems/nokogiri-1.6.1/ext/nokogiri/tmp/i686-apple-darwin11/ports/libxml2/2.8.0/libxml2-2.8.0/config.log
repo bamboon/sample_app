@@ -30,8 +30,13 @@ Kernel configured for up to 4 processors.
 Processor type: i486 (Intel 80486)
 Processors active: 0 1 2 3
 Primary memory available: 8.00 gigabytes
+<<<<<<< HEAD
 Default processor set: 130 tasks, 922 threads, 4 processors
 Load average: 2.50, Mach factor: 1.89
+=======
+Default processor set: 130 tasks, 959 threads, 4 processors
+Load average: 0.94, Mach factor: 3.14
+>>>>>>> filling-in-layout
 /bin/machine           = unknown
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
@@ -1496,7 +1501,11 @@ configure:13449: checking for isnand
 configure:13449: gcc -o conftest -g -O2   conftest.c  >&5
 Undefined symbols for architecture x86_64:
   "_isnand", referenced from:
+<<<<<<< HEAD
       _main in ccrEDGk9.o
+=======
+      _main in ccQZSOkS.o
+>>>>>>> filling-in-layout
 ld: symbol(s) not found for architecture x86_64
 collect2: ld returned 1 exit status
 configure:13449: $? = 1
@@ -1603,7 +1612,11 @@ configure:13449: checking for fp_class
 configure:13449: gcc -o conftest -g -O2   conftest.c  >&5
 Undefined symbols for architecture x86_64:
   "_fp_class", referenced from:
+<<<<<<< HEAD
       _main in cc6ibNOW.o
+=======
+      _main in ccLRJaMH.o
+>>>>>>> filling-in-layout
 ld: symbol(s) not found for architecture x86_64
 collect2: ld returned 1 exit status
 configure:13449: $? = 1
@@ -1710,7 +1723,11 @@ configure:13449: checking for class
 configure:13449: gcc -o conftest -g -O2   conftest.c  >&5
 Undefined symbols for architecture x86_64:
   "_class", referenced from:
+<<<<<<< HEAD
       _main in cc6Nh08l.o
+=======
+      _main in cc0maEpx.o
+>>>>>>> filling-in-layout
 ld: symbol(s) not found for architecture x86_64
 collect2: ld returned 1 exit status
 configure:13449: $? = 1
@@ -1817,7 +1834,11 @@ configure:13449: checking for fpclass
 configure:13449: gcc -o conftest -g -O2   conftest.c  >&5
 Undefined symbols for architecture x86_64:
   "_fpclass", referenced from:
+<<<<<<< HEAD
       _main in ccwIw2eS.o
+=======
+      _main in cchWylzJ.o
+>>>>>>> filling-in-layout
 ld: symbol(s) not found for architecture x86_64
 collect2: ld returned 1 exit status
 configure:13449: $? = 1
@@ -1942,7 +1963,11 @@ configure:13473: checking for _stat
 configure:13473: gcc -o conftest -g -O2   conftest.c  >&5
 Undefined symbols for architecture x86_64:
   "__stat", referenced from:
+<<<<<<< HEAD
       _main in ccOEB41Y.o
+=======
+      _main in ccX6hKOE.o
+>>>>>>> filling-in-layout
 ld: symbol(s) not found for architecture x86_64
 collect2: ld returned 1 exit status
 configure:13473: $? = 1
@@ -2117,7 +2142,11 @@ conftest.c:99: warning: function declaration isn't a prototype
 conftest.c:109: warning: function declaration isn't a prototype
 Undefined symbols for architecture x86_64:
   "_shl_load", referenced from:
+<<<<<<< HEAD
       _main in cczQUtUu.o
+=======
+      _main in ccoExsvt.o
+>>>>>>> filling-in-layout
 ld: symbol(s) not found for architecture x86_64
 collect2: ld returned 1 exit status
 configure:14350: $? = 1
@@ -2372,9 +2401,15 @@ configure:15079: gcc -o conftest -g -O2 -pedantic -W -Wformat -Wunused -Wimplici
 conftest.c:83: warning: function declaration isn't a prototype
 Undefined symbols for architecture x86_64:
   "_iconv_open", referenced from:
+<<<<<<< HEAD
       _main in ccfJ1guc.o
   "_iconv", referenced from:
       _main in ccfJ1guc.o
+=======
+      _main in ccSF54BX.o
+  "_iconv", referenced from:
+      _main in ccSF54BX.o
+>>>>>>> filling-in-layout
 ld: symbol(s) not found for architecture x86_64
 collect2: ld returned 1 exit status
 configure:15079: $? = 1
@@ -2845,7 +2880,11 @@ RDL_LIBS=''
 READER_TEST='Readertests'
 REBUILD_DOCS_FALSE=''
 REBUILD_DOCS_TRUE='#'
+<<<<<<< HEAD
 RELDATE='Thu Apr 17 2014'
+=======
+RELDATE='Wed Apr 16 2014'
+>>>>>>> filling-in-layout
 RM='/bin/rm'
 SED='/usr/bin/sed'
 SET_MAKE=''
