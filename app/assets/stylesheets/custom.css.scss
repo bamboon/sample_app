@@ -1,12 +1,8 @@
 @import "bootstrap";
 
-<<<<<<< HEAD
 /* mixins, variables, etc. */
 
 $grayMediumLight: #eaeaea;
-=======
-$lightGray: #999;
->>>>>>> filling-in-layout
 
 /* universal */
 
@@ -28,16 +24,9 @@ textarea {
 
 .center {
   text-align: center;
-<<<<<<< HEAD
   h1 {
     margin-bottom: 10px;
   }
-=======
-}
-
-.center h1 {
-  margin-bottom: 10px;
->>>>>>> filling-in-layout
 }
 
 /* typography */
@@ -59,11 +48,7 @@ h2 {
   margin-bottom: 30px;
   text-align: center;
   font-weight: normal;
-<<<<<<< HEAD
   color: $grayLight;
-=======
-  color: $lightGray;
->>>>>>> filling-in-layout
 }
 
 p {
@@ -71,28 +56,20 @@ p {
   line-height: 1.7em;
 }
 
-<<<<<<< HEAD
 
-=======
->>>>>>> filling-in-layout
 /* header */
 
 #logo {
   float: left;
   margin-right: 10px;
   font-size: 1.7em;
-<<<<<<< HEAD
   color: white;
-=======
-  color: #fff;
->>>>>>> filling-in-layout
   text-transform: uppercase;
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
   line-height: 1;
   &:hover {
-<<<<<<< HEAD
     color: white;
     text-decoration: none;
   }
@@ -122,39 +99,4 @@ footer {
       margin-left: 10px;
     }
   }
-=======
-  color: #fff;
-  text-decoration: none;
-  }
-}
-
-
-/* footer */
-
-footer {
-	  margin-top: 45px;
-	  padding-top: 5px;
-	  border-top: 1px solid #eaeaea;
-	  color: $lightGray;
-	  a {
-	    color: #555;
-		    &:hover {
-		     color: #222;
-		    }
-	  }
-
-	small {
-	  float: left;
-	}
-
-	 ul {
-	  float: right;
-	  list-style: none;
-
-		 li {
-		  float: left;
-		  margin-left: 10px;
-		  }
-	}
->>>>>>> filling-in-layout
 }

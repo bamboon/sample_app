@@ -1,0 +1,10 @@
+# Ruby on Rails チュートリアル：サンプルアプリケーション
+
+<<<<<<< HEAD
+これは、以下のためのサンプルアプリケーションです。
+[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
+=======
+これは以下で使用する最初のアプリケーションです。
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.jp/)
+>>>>>>> origin/master
+by [Michael Hartl](http://michaelhartl.com/).
